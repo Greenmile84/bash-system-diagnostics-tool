@@ -25,7 +25,7 @@ chmod +x system_diagnostics.sh
 
 ## Example output
 
-```
+​```
 My public IP address is:
 203.0.113.42
 
@@ -51,14 +51,12 @@ ssh.service loaded active running OpenBSD Secure Shell server
 Top 10 largest files in /home:
 2.1G  /home/kali/Downloads/kali-linux.iso
 ...
+​```
 
 ## Why this matters
 
-Quickly fingerprinting a machine's network identity, resource load, and running services is a
-foundational step in system triage and incident response — before deeper investigation, hardening, or forensic work begins.
+Quickly fingerprinting a machine's network identity, resource load, and running services is a foundational step in system triage and incident response — before deeper investigation, hardening, or forensic work begins.
 
 ## Author
 
 Part of coursework at ThinkCyber | XE (Linux Fundamentals — Bash Scripting, module XE103).
-
-
