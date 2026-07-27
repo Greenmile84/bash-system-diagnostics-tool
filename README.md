@@ -25,33 +25,27 @@ chmod +x system_diagnostics.sh
 
 ## Example output
 
-​```
+```
 My public IP address is:
 203.0.113.42
-
 My private IP address is:
 192.168.2.171
-
 MAC address found (masked):
 xx:xx:xx:4f:2a:9c
-
 Top 5 processes by CPU usage:
 %CPU COMMAND
  4.2 firefox
  2.1 Xorg
  ...
-
 Total and available memory:
 Total: 7.8Gi  Available: 5.2Gi
-
 Running services:
 ssh.service loaded active running OpenBSD Secure Shell server
 ...
-
 Top 10 largest files in /home:
 2.1G  /home/kali/Downloads/kali-linux.iso
-​```
-
+...
+```
 ## Why this matters
 
 Quickly fingerprinting a machine's network identity, resource load, and running services is a foundational step in system triage and incident response — before deeper investigation, hardening, or forensic work begins.
