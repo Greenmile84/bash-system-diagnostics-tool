@@ -54,8 +54,11 @@ Top 10 largest files in /home:
 
 ## Why this matters
 
-Quickly fingerprinting a machine's network identity, resource load, and running services is a foundational step in system triage and incident response — before deeper investigation, hardening, or forensic work begins.
+Quickly fingerprinting a machine's network identity, resource load, and running services is a
+foundational step in system triage and incident response — before deeper investigation, hardening, or forensic work begins.
 
 ## Author
 
 Part of coursework at ThinkCyber | XE (Linux Fundamentals — Bash Scripting, module XE103).
+
+
