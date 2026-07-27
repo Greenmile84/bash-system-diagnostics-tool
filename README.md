@@ -25,7 +25,7 @@ chmod +x system_diagnostics.sh
 
 ## Example output
 
-
+```
 My public IP address is:
 203.0.113.42
 
@@ -37,16 +37,17 @@ xx:xx:xx:4f:2a:9c
 
 Top 5 processes by CPU usage:
 %CPU COMMAND
-4.2 firefox
-2.1 Xorg
-...
+ 4.2 firefox
+ 2.1 Xorg
+ ...
 
 Total and available memory:
-Total: 7.8Gi Available: 5.2Gi
+Total: 7.8Gi  Available: 5.2Gi
 
 Running services:
 ssh.service loaded active running OpenBSD Secure Shell server
 ...
 
 Top 10 largest files in /home:
-2.1G /home/kali/Downloads/kali-linux.iso
+2.1G  /home/kali/Downloads/kali-linux.iso
+...
