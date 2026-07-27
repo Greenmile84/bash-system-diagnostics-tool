@@ -50,7 +50,6 @@ ssh.service loaded active running OpenBSD Secure Shell server
 
 Top 10 largest files in /home:
 2.1G  /home/kali/Downloads/kali-linux.iso
-...
 ​```
 
 ## Why this matters
